@@ -1,0 +1,5 @@
+# don't add themes in as we clone in a submodule
+themes/
+
+# don't add public is as it's output from hugo
+public/
