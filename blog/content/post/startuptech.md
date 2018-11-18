@@ -4,6 +4,8 @@ date: 2018-11-18
 draft: false
 ---
 
+![other computer is azure](/images/other-computer-azure.png)
+
 You've got a great idea for your startup, and a great team, but how do you get started with Azure to build this solution? So you go to the Azure portal or have a look at the list of the [Azure services](https://azure.microsoft.com/en-gb/services/) and there's a *lot* of services there. Azure can solve all the world's problems but you just want to get started so what to do?
 
 First thing I'd say is to keep it as simple as possible. A good developer is a lazy developer. There's no need to reinvent things that have been solved by others, when you can focus on building out your good idea instead. Friends don't let friends build servers.
