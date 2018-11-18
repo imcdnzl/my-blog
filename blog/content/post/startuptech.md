@@ -1,5 +1,5 @@
 ---
-title: "Tech stack for your new startups"
+title: "Tech stack for your new startup"
 date: 2018-11-18
 draft: false
 ---
